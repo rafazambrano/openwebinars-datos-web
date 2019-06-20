@@ -1,3 +1,6 @@
+Rafael Zambrano López  
+rafazamb@gmail.com  
+
 # Acceso a Datos Web
 
 Este repositorio contiene los códigos en Python utilizados durante el curso "Acceso a Datos Web". El formato de los códigos es ipynb (jupyter notebook).
